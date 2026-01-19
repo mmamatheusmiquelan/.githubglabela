@@ -1,0 +1,11 @@
+*
+!/README.txt
+!.gitignore
+!*/
+!**/*.lua
+!**/*.otui
+!**/*.otmod
+!**/*.png
+!**/*.ogg
+!**/*.json
+!**/*.cfg
