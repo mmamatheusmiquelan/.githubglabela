@@ -1,21 +1,21 @@
 {
-  "version": "1.000069",
+  "version": "1.000071",
   "clients": {
     "dx_x86": {
       "file": "_dx.exe",
-      "sha256": "e851537290b1fbc52e1331fce578ec1e177286e566b626137e9c5e5a343c087d"
+      "sha256": "f3eec48cc0d19dc366a05ad6056ab84bd013db26ff4615630317fcc7141ca3df"
     },
     "dx_x64": {
       "file": "_dx_x64.exe",
-      "sha256": "9437df615a294d4a78d0ec1d35a0a0cfce4af546055fecf627d26de43b58ec30"
+      "sha256": "d6d6c29433b12e9c2699ba761c62a23cf7c92a185ff690ddc7457a48a92acef6"
     },
     "gl_x86": {
       "file": "_gl.exe",
-      "sha256": "6d3b4ab74e9b93c39682d0d163e23e57c18bd33b9d8238ad675904730a9421b8"
+      "sha256": "0152d815d419f9d577fcfcf17b4efbab6723f6bab9959135018499571b1d64f7"
     },
     "gl_x64": {
       "file": "_gl_x64.exe",
-      "sha256": "7a470bdea1fd5cc2190937a83c66ab685512098e352fba71cfef45e7c7b2de77"
+      "sha256": "63d203eeae65a18a29c6a0a067e0b6cdf623f4f4d52e4c82797e79a00094c471"
     }
   }
 }
